@@ -5,7 +5,7 @@ React Weather App
 A weather app built using React provides users with real-time weather updates, forecasts, and relevant information like temperature, humidity, and wind speed. The app fetches weather data from a weather API, allowing users to search for cities and view detailed weather conditions. 
 
 # Features
-`▪ Real-time Weather Data: Fetches live weather data from an API (e.g., OpenWeatherMap, Weatherstack) based on user input.`
+`▪ Real-time Weather Data: Fetches live weather data from an API based on user input.`
 
 `▪ City Search: Allows users to search for weather details by city name.`
   
